@@ -1,4 +1,4 @@
-# Cannabis Madrid - Dispensary Website
+
 
 A modern, responsive dispensary website for Cannabis Madrid with a floating WhatsApp icon for customer communication.
 
